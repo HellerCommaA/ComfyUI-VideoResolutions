@@ -1,0 +1,14 @@
+[project]
+name = "videoresolutions"
+description = "A super simple node that outputs common video resolutions as 2 integers for Hunyuan and others!"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/HellerCommaA/ComfyUI-VideoResolutions"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-VideoResolutions"
+Icon = ""
